@@ -2,7 +2,13 @@
 
 This project is essentially the wiki for CoderDojo Stirling. It contains useful information for running our dojos.
 
+## Making changes
+
 If you're a mentor, then feel free to make changes. You'll need to be a member of the [CoderDojoStirling](https://github.com/CoderDojoStirling) github organisation. Just give Greg your github username, and he'll add you.
+
+This page is in written in [Markdown](http://en.wikipedia.org/wiki/Markdown), which is "a markup language with plain text formatting syntax designed so that it can be converted to HTML". You can learn the basics of Markdown [here](https://help.github.com/articles/markdown-basics/).
+
+Editing this page is a case of going [here](https://github.com/CoderDojoStirling/coderdojo-notes/blob/master/README.md) and clicking on the 'Edit this file' icon (top right, looks like a pen).
 
 ## Past dojos
 
