@@ -8,7 +8,7 @@ If you're a mentor, then feel free to make changes. You'll need to be a member o
 
 This page is in written in [Markdown](http://en.wikipedia.org/wiki/Markdown), which is "a markup language with plain text formatting syntax designed so that it can be converted to HTML". You can learn the basics of Markdown [here](https://help.github.com/articles/markdown-basics/).
 
-Editing this page is a case of going [here](https://github.com/CoderDojoStirling/coderdojo-notes/blob/master/README.md) and clicking on the 'Edit this file' icon (top right, looks like a pen).
+Editing this README.md page is a case of going [here](https://github.com/CoderDojoStirling/coderdojo-notes/blob/master/README.md) and clicking on the 'Edit this file' icon (top right, looks like a pen).
 
 ## Past dojos
 
